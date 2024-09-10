@@ -1,4 +1,4 @@
-"""
+
 Jogo da Forca
 
 Este é um jogo da forca simples implementado em Python. O objetivo do jogo é adivinhar a palavra secreta letra por letra antes de atingir o limite de erros permitidos. O jogo termina quando o jogador adivinha todas as letras corretamente ou quando a forca é desenhada completamente.
@@ -39,8 +39,7 @@ Notas:
 Exemplo de uso:
 Se você executar o script, o jogo será iniciado e as funções serão chamadas conforme necessário para jogar a forca.
 
-"""
-
+```
 import random
 
 def imprime_mensagem_abertura():
